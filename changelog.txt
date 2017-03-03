@@ -1,6 +1,7 @@
 WEIXIN-POPULAR CHANGELOG
 ===========================
-https://github.com/liyiorg/weixin-popular
+https://github.com/llade/weixin-popular
+fork
 
 Changes in version 2.8.6 (2017-02-14)
 -------------------------------------
